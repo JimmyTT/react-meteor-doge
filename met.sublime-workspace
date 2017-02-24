@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"don",
+				"don"
+			],
+			[
+				"ave",
+				"average_pass_per_car"
+			],
+			[
+				"auth",
+				"authenticate_user_from_token"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"COlor",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"activate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Activate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packagg",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer"
+	],
+	"file_history":
+	[
+		"/Users/robert/dev/sandbox/learn-ruby/ex12.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex11.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex10.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex9.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex8.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex7.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex6.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex5.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex4.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex3.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex2.rb",
+		"/Users/robert/dev/sandbox/learn-ruby/ex1.rb",
+		"/Users/robert/Documents/western/year4/t2/cs2212/_dogetimer/grails-app/views/layouts/signin.gsp",
+		"/Users/robert/dev/projects/android/SQLez_app/README.md",
+		"/Users/robert/dev/projects/conscious/rails-backend/app/models/thought.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/app/controllers/thoughts_controller.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/config/application.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/db/seeds.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/config/routes.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/config/environments/development.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/app/controllers/application_controller.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/app/serializers/thought_serializer.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/app/serializers/user_serializer.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/app/models/user.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/db/schema.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/db/migrate/20170129063308_create_users.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/db/migrate/20170129063530_create_thoughts.rb",
+		"/Users/robert/dev/projects/2.0/eqho/p.sublime-project",
+		"/Users/robert/dev/projects/conscious/rails-backend/db/migrate/20170130025143_add_pub_key.rb",
+		"/Users/robert/dev/projects/conscious/rails-backend/README.md",
+		"/Users/robert/dev/projects/conscious/backend/server.js",
+		"/Users/robert/dev/projects/conscious/backend/databases/mongo.js",
+		"/Users/robert/dev/projects/conscious/backend/app/models/user.js",
+		"/Users/robert/dev/projects/conscious/backend/config.js",
+		"/Users/robert/dev/projects/conscious/backend/mongo.js",
+		"/Users/robert/dev/projects/apps/conscious/backend/con.sublime-workspace",
+		"/Users/robert/dev/projects/apps/conscious/backend/con.sublime-project",
+		"/Users/robert/dev/sandbox/what_git/doit.java",
+		"/Users/robert/dev/projects/android/posture/keystore.properties",
+		"/Users/robert/Documents/western/year4/extra_curc/what_the_git/shitcode.java",
+		"/Users/robert/dev/res/random/random-names.txt",
+		"/Users/robert/dev/res/random/sentences-quotes.txt",
+		"/Users/robert/dev/projects/web/aws/aws.txt",
+		"/Users/robert/dev/sandbox/open-class/server.js",
+		"/Users/robert/dev/sandbox/open-class/oc.sublime-project",
+		"/Users/robert/dev/projects/web/robertsimoes.github.io/robertsimoes.sublime-project",
+		"/Users/robert/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/robert/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/robert/dev/res/useful-commands/bash-ref.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bkend",
+			"require",
+			"setup",
+			"^",
+			"$",
+			"^",
+			"\\n",
+			"\\n\\n",
+			"\\n-",
+			"color",
+			"padding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<item>",
+			"</item>",
+			"<item>",
+			"</item>\\n",
+			" \\n",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "met.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 358.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

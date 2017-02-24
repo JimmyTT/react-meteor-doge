@@ -7,11 +7,12 @@ export default class Header extends React.Component {
   render() {
     return (
       <header className='Header'>
-        <b>Header</b> &nbsp;
-        <NavLink activeClassName="active" exact to="/">Home</NavLink>
-        <NavLink activeClassName="active" to="/about">About Page</NavLink>
+        <b> DogeTime </b>
+        <NavLink activeClassName="active" exact to="/">You</NavLink>
+        <NavLink activeClassName="active" to="/leaderboard">Leaderboard</NavLink>
+        <NavLink activeClassName="active" to="/tasks">Tasks</NavLink>
         <NavLink to="/bad-url">Not Found Page</NavLink>
-        <LoginButtons align='left' />
+        <LoginButtons align='right' />
       </header>
     );
   }
