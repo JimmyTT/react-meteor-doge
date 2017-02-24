@@ -1,7 +1,7 @@
 {
-  "name": "meteor-react-boilerplate",
-  "version": "1.0.1",
-  "description": "Meteor React Boilerplate",
+  "name": "doge-time-meteor",
+  "version": "1.0.0",
+  "description": "Doge Time Meteor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +10,10 @@
     "type": "git",
     "url": "https://github.com/AdamBrodzinski/meteor-react-boilerplate"
   },
-  "author": "Ryen Beatty <ryen.beatty@gmail.com> (http://ryenbeatty.co)",
+  "author": "Robert Simoes",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AdamBrodzinski/meteor-react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/AdamBrodzinski/meteor-react-boilerplate",
+
+  "homepage": "https://github.com/robertsimoes",
   "dependencies": {
     "classnames": "^2.2.5",
     "history": "^3.0.0",
