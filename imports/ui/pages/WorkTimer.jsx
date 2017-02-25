@@ -1,12 +1,13 @@
 import React from 'react';
 import classNames from 'classnames';
 
-function Timer() {
+function WorkTimer() {
   return (
-    <div className='Timer'>
+    <div className='WorkTimer'>
       <h1>Main Timer</h1>
+    
     </div>
   );
 }
 
-export default Timer;
+export default WorkTimer;

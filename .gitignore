@@ -1,2 +1,6 @@
-node_modules*.sublime*
+node_modules/*
+.sublime*
 met.sublime-project met.sublime-workspace
+.idea/*
+.idea
+
