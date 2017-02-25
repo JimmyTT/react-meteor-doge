@@ -1,10 +1,11 @@
 import React from 'react';
 import classNames from 'classnames';
+import TaskGridView from '../components/TaskGridView.jsx'
 
 function Tasks() {
   return (
     <div className='Tasks'>
-      <h1>Tasks</h1>
+      <TaskGridView/> 
     </div>
   );
 }

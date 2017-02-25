@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdamBrodzinski/meteor-react-boilerplate"
+    "url": "https://github.com/robertsimoes/doge-time-meteor"
   },
   "author": "Robert Simoes",
   "license": "ISC",
-
   "homepage": "https://github.com/robertsimoes",
   "dependencies": {
+    "babel-runtime": "^6.23.0",
     "classnames": "^2.2.5",
     "history": "^3.0.0",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
-  
-    "react-router-dom": "^4.0.0-beta.6"
+    "react-router-dom": "^4.0.0-beta.6",
+    "react-timer": "^1.0.2"
   }
 }
