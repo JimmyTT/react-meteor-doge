@@ -6,6 +6,7 @@ import You from '../pages/You.jsx';
 import Leaderboard from '../pages/Leaderboard.jsx';
 import NotFound from '../pages/NotFound.jsx';
 import Tasks from '../pages/Tasks.jsx'
+import Pomodoro from '../pages/MainPomodoro.jsx'
 
 export default class MainLayout extends React.Component {
   render() {
@@ -17,6 +18,7 @@ export default class MainLayout extends React.Component {
               <Route exact path='/' component={You} />
               <Route path = '/leaderboard' component={Leaderboard} />
               <Route path = '/tasks' component={Tasks} />
+              <Route path = '/mainpomodoro' component={Pomodoro}/>
               <Route component={NotFound} />
             </Switch>
         </div>
