@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"cla",
+				"className"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
 				"don",
 				"don"
 			],
@@ -108,10 +116,40 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer"
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/client",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/startup",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/startup/server",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/containers",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/server"
 	],
 	"file_history":
 	[
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/TimerOpsFAB.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/MainPomodoro.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/containers/MainLayout.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/Header.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/client/main.css",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/WorkTimer.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/You.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/MTimer.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/Timer.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/MaterialTimer.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/client/main.html",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/package.json",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/SingleCard.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/client/assets/materialize.css",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/README.md",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/Main.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/Tasks.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/Timer.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/pages/Leaderboard.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/LoginButtons.jsx",
+		"/Users/robert/Documents/western/year4/t2/cs2212/doge-timer/imports/ui/components/MainPomodoro.jsx",
 		"/Users/robert/dev/sandbox/learn-ruby/ex12.rb",
 		"/Users/robert/dev/sandbox/learn-ruby/ex11.rb",
 		"/Users/robert/dev/sandbox/learn-ruby/ex10.rb",
@@ -164,13 +202,14 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 158.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -178,6 +217,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"class",
 			"bkend",
 			"require",
 			"setup",
@@ -196,6 +236,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"className",
 			"<item>",
 			"</item>",
 			"<item>",
@@ -219,7 +260,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -256,7 +297,7 @@
 	"project": "met.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
